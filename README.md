@@ -35,11 +35,17 @@ Equipped abilities:
 - Backstab Multiplier: +1 (Thieves)
 
 THAC0: +4 (Thieves), +2 (others)
+
 Damage: 1d6+2 (piercing)
+
 Speed Factor: 0
+
 Proficiency Type: Short Sword
+
 Type: One-handed
+
 Requires:
+
  5 Strength
 
 Weight: 3
@@ -51,8 +57,11 @@ This relatively simple ring grants the wearer a sixth sense which warns of impen
 STATISTICS:
 
 Equipped abilities:
+
 - Immunity to Backstab
+- 
 - Save vs. Breath: +2
+- 
 - Find Traps: +25%
 
 Weight: 0
