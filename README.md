@@ -1,6 +1,6 @@
 # Thieves-Item-Pack
 
-Ring of Danger Sense
+**Ring of Danger Sense**
 
 This relatively simple ring grants the wearer a sixth sense which warns of impending danger from traps or ambushes. 
 
@@ -13,7 +13,7 @@ Equipped abilities:
 
 Weight: 0
 
-The Shadow's Blade +2
+**The Shadow's Blade +2**
 
 The Shadow's Blade was created to be the perfect assassin's tool. It is highly sought after by any who settle differences with a blade, and many that possess it do not do so for long. In the hands of any character this is a +2 magical weapon, but in the hands of a thief it is especially potent. When a thief makes a backstab attempt with this short sword, it allows him to attack as if four levels higher than his actual experience level, with corresponding improvements in THAC0, and damage multiplier on a successful hit. 
 
@@ -32,7 +32,7 @@ Requires:
 
 Weight: 3
 
-Dagger of Venom +1
+**Dagger of Venom +1**
 
 Favored by assassins throughout Faerûn, this ordinary-looking dagger conceals a deadly secret: a hidden store of poison within its hilt. Although undeniably effective, prolonged reliance on poisoned weapons such as this may tarnish one's honor and erode one's reputation.
 
@@ -51,7 +51,7 @@ Requires:
 
 Weight: 2
 
-Ring of Evasion
+**Ring of Evasion**
 
 This elaborate ring is decorated with a hummingbird wrought of jade and sapphire and grants the wearer the ability to avoid certain area-of-effect damage through a combination of superior reflexes and inner strength.
 
