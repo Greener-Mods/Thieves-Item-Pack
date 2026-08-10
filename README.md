@@ -1,17 +1,23 @@
 # Thieves-Item-Pack
 
-**Ring of Danger Sense**
+**Dagger of Venom +1**
 
-This relatively simple ring grants the wearer a sixth sense which warns of impending danger from traps or ambushes. 
+Favored by assassins throughout Faerûn, this ordinary-looking dagger conceals a deadly secret: a hidden store of poison within its hilt. Although undeniably effective, prolonged reliance on poisoned weapons such as this may tarnish one's honor and erode one's reputation.
 
 STATISTICS:
 
-Equipped abilities:
-- Immunity to Backstab
-- Save vs. Breath: +2
-- Find Traps: +25%
+Combat abilities:
+- On a critical hit, the target suffers 2 points of poison damage per second for 12 seconds (Save vs. Poison for half)
 
-Weight: 0
+THAC0: +1
+Damage: 1d4+1 (piercing)
+Speed Factor: 0
+Proficiency Type: Dagger
+Type: One-handed
+Requires:
+ 3 Strength
+
+Weight: 2
 
 **The Shadow's Blade +2**
 
@@ -32,24 +38,18 @@ Requires:
 
 Weight: 3
 
-**Dagger of Venom +1**
+**Ring of Danger Sense**
 
-Favored by assassins throughout Faerûn, this ordinary-looking dagger conceals a deadly secret: a hidden store of poison within its hilt. Although undeniably effective, prolonged reliance on poisoned weapons such as this may tarnish one's honor and erode one's reputation.
+This relatively simple ring grants the wearer a sixth sense which warns of impending danger from traps or ambushes. 
 
 STATISTICS:
 
-Combat abilities:
-- On a critical hit, the target suffers 2 points of poison damage per second for 12 seconds (Save vs. Poison for half)
+Equipped abilities:
+- Immunity to Backstab
+- Save vs. Breath: +2
+- Find Traps: +25%
 
-THAC0: +1
-Damage: 1d4+1 (piercing)
-Speed Factor: 0
-Proficiency Type: Dagger
-Type: One-handed
-Requires:
- 3 Strength
-
-Weight: 2
+Weight: 0
 
 **Ring of Evasion**
 
