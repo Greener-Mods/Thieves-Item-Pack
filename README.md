@@ -10,11 +10,17 @@ Combat abilities:
 - On a critical hit, the target suffers 2 points of poison damage per second for 12 seconds (Save vs. Poison for half)
 
 THAC0: +1
+
 Damage: 1d4+1 (piercing)
+
 Speed Factor: 0
+
 Proficiency Type: Dagger
+
 Type: One-handed
+
 Requires:
+
  3 Strength
 
 Weight: 2
