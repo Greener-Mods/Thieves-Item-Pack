@@ -19,9 +19,7 @@ Proficiency Type: Dagger
 
 Type: One-handed
 
-Requires:
-
-3 Strength
+Requires: 3 Strength
 
 Weight: 2
 
@@ -44,9 +42,7 @@ Proficiency Type: Short Sword
 
 Type: One-handed
 
-Requires:
-
- 5 Strength
+Requires: 5 Strength
 
 Weight: 3
 
