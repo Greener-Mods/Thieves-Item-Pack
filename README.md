@@ -62,7 +62,7 @@ Equipped abilities:
 
 Weight: 0
 
-INSTALLATION 
+**INSTALLATION** 
                  
 This kit has been created and tested with BGEE, BG2EE v2.6.
 This is a WEIDU mod thus currently is compatible with other mods.
@@ -71,17 +71,18 @@ This is a WEIDU mod thus currently is compatible with other mods.
 
 	2 - Run WeiDU and install
 
-FUTURE  CHANGES  
+**FUTURE CHANGES**  
 
-None planned
+- None planned
 
-COPYRIGHT
+**COPYRIGHT**
 
-It can be used by anyone, at any time, anywhere at your own risk
+This mod can be used by anyone, at any time, anywhere at your own risk
 
 THANK YOU to all that have assisted along the way
 
-CHANGE LOG
+**CHANGE LOG**
+
 v1.1 Adds the Ring of Danger Sense to Black Lily store and Brennan Risling's inventory
 
 v1.0 Initial release
