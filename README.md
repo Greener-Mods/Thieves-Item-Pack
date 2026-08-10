@@ -9,19 +9,14 @@ STATISTICS:
 Combat abilities:
 - On a critical hit, the target suffers 2 points of poison damage per second for 12 seconds (Save vs. Poison for half)
 
-THAC0: +1
+THAC0: +1<br>
+Damage: 1d4+1 (piercing)<br>
+Speed Factor: 0<br>
+Proficiency Type: Dagger<br>
+Type: One-handed<br>
+Requires: 3 Strength<br>
 
-Damage: 1d4+1 (piercing)
-
-Speed Factor: 0
-
-Proficiency Type: Dagger
-
-Type: One-handed
-
-Requires: 3 Strength
-
-Weight: 2
+Weight: 2<br>
 
 ### **The Shadow's Blade +2**
 
@@ -32,19 +27,14 @@ STATISTICS:
 Equipped abilities:
 - Backstab Multiplier: +1 (Thieves)
 
-THAC0: +4 (Thieves), +2 (others)
+THAC0: +4 (Thieves), +2 (others)<br>
+Damage: 1d6+2 (piercing)<br>
+Speed Factor: 0<br>
+Proficiency Type: Short Sword<br>
+Type: One-handed<br>
+Requires: 5 Strength<br>
 
-Damage: 1d6+2 (piercing)
-
-Speed Factor: 0
-
-Proficiency Type: Short Sword
-
-Type: One-handed
-
-Requires: 5 Strength
-
-Weight: 3
+Weight: 3<br>
 
 ### **Ring of Danger Sense**
 
@@ -54,9 +44,9 @@ STATISTICS:
 
 Equipped abilities:
 
-- Immunity to Backstab
-- Save vs. Breath: +2
-- Find Traps: +25%
+- Immunity to Backstab<br>
+- Save vs. Breath: +2<br>
+- Find Traps: +25%<br>
 
 Weight: 0
 
@@ -67,7 +57,7 @@ This elaborate ring is decorated with a hummingbird wrought of jade and sapphire
 STATISTICS:
 
 Equipped abilities:
-- On a successful Saving Throw vs. Breath, the wearer takes no damage from certain area-of-effect attacks, instead of half damage
+- On a successful Saving Throw vs. Breath, the wearer takes no damage from certain area-of-effect attacks, instead of half damage<br>
 
 Weight: 0
 
