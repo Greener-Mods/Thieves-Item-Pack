@@ -77,9 +77,9 @@ This is a WEIDU mod thus currently is compatible with other mods.
 
 **COPYRIGHT**
 
-This mod can be used by anyone, at any time, anywhere at your own risk
+- This mod can be used by anyone, at any time, anywhere at your own risk
 
-THANK YOU to all that have assisted along the way
+- THANK YOU to all that have assisted along the way
 
 **CHANGE LOG**
 
