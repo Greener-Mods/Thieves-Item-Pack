@@ -1,13 +1,4 @@
-INSTALLATION 
-                 
-This kit has been created and tested with BGEE, BG2EE v2.6.
-This is a WEIDU mod thus currently is compatible with other mods.
-
-	1 - Extract the contents of the zip file into your override folder
-
-	2 - Run WeiDU and install
-
-THIEVES ITEM PACK DESCRIPTION
+# Thieves-Item-Pack
 
 **Dagger of Venom +1**
 
@@ -70,6 +61,15 @@ Equipped abilities:
 - On a successful Saving Throw vs. Breath, the wearer takes no damage from certain area-of-effect attacks, instead of half damage
 
 Weight: 0
+
+INSTALLATION 
+                 
+This kit has been created and tested with BGEE, BG2EE v2.6.
+This is a WEIDU mod thus currently is compatible with other mods.
+
+	1 - Extract the contents of the zip file into your override folder
+
+	2 - Run WeiDU and install
 
 FUTURE  CHANGES  
 
