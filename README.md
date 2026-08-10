@@ -59,9 +59,7 @@ STATISTICS:
 Equipped abilities:
 
 - Immunity to Backstab
-- 
 - Save vs. Breath: +2
-- 
 - Find Traps: +25%
 
 Weight: 0
