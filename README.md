@@ -10,6 +10,7 @@ This is a WEIDU mod thus currently is compatible with other mods.
 THIEVES ITEM PACK DESCRIPTION
 
 **Dagger of Venom +1**
+
 Favored by assassins throughout Faerûn, this ordinary-looking dagger conceals a deadly secret: a hidden store of poison within its hilt. Although undeniably effective, prolonged reliance on poisoned weapons such as this may tarnish one's honor and erode one's reputation.
 
 STATISTICS:
