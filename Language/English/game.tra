@@ -52,7 +52,9 @@ Weight: 2~
 STATISTICS:
 
 Equipped abilities:
-- On a successful Saving Throw vs. Breath, the wearer takes no damage from certain area-of-effect attacks, instead of half damage
+- Gains the Evasion ability
+
+EVASION: This passive ability allows the wearer to avoid all damage from certain area-of-effect attacks with a successful Save vs. Breath.
 
 Weight: 0~
 
